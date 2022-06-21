@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=titi-lima&count_private=true&show_icons=true&theme=omni" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=titi-lima&count_private=true&show_icons=true&theme=omni" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titi-lima&layout=compact&theme=omni" />
+  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titi-lima&layout=compact&theme=omni" />
 </a>
 <br>
 <br>
