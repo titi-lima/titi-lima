@@ -1,5 +1,5 @@
 ```
-+ Back-End developer | Full-Stack developer
++ Software Engineer - Tech Lead
 ```
 <br>
 <div align="center">
