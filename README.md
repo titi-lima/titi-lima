@@ -6,7 +6,13 @@
 <img src="https://streak-stats.demolab.com?user=titi-lima&theme=omni&mode=weekly" width="385px" alt="titi-lima-streak">
 <img src="https://github-readme-stats.vercel.app/api?username=titi-lima&theme=omni" width="350px" alt="titi-lima-stats">
 </div>
-
+<p align="center" style="width: 100%;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/titi-lima/titi-lima/4d3478372c9125776d1510743bb9565152a646db/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/titi-lima/titi-lima/4d3478372c9125776d1510743bb9565152a646db/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</p>
 <br>
 
 <p align="center">
